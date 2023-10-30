@@ -1,0 +1,16 @@
+F:\C#\workspace\AutoShutdown\AutoShutdown\bin\Debug\AutoShutdown.exe.config
+F:\C#\workspace\AutoShutdown\AutoShutdown\bin\Debug\AutoShutdown.exe
+F:\C#\workspace\AutoShutdown\AutoShutdown\bin\Debug\AutoShutdown.pdb
+F:\C#\workspace\AutoShutdown\AutoShutdown\obj\Debug\AutoShutdown.csproj.AssemblyReference.cache
+F:\C#\workspace\AutoShutdown\AutoShutdown\obj\Debug\AutoShutdown.Properties.Resources.resources
+F:\C#\workspace\AutoShutdown\AutoShutdown\obj\Debug\AutoShutdown.csproj.GenerateResource.cache
+F:\C#\workspace\AutoShutdown\AutoShutdown\obj\Debug\AutoShutdown.csproj.CoreCompileInputs.cache
+F:\C#\workspace\AutoShutdown\AutoShutdown\obj\Debug\AutoShutdown.exe
+F:\C#\workspace\AutoShutdown\AutoShutdown\obj\Debug\AutoShutdown.pdb
+F:\C#\workspace\AutoShutdown\AutoShutdown\obj\Debug\AutoShutdown.Form1.resources
+F:\C#\workspace\AutoShutdown\AutoShutdown\obj\Debug\AutoShutdown.csproj.SuggestedBindingRedirects.cache
+F:\C#\workspace\AutoShutdown\AutoShutdown\bin\Debug\Gma.System.MouseKeyHook.dll
+F:\C#\workspace\AutoShutdown\AutoShutdown\obj\Debug\AutoShutdown.csproj.CopyComplete
+F:\C#\workspace\AutoShutdown\AutoShutdown\obj\Debug\AutoShutdown.Form2.resources
+F:\C#\workspace\AutoShutdown\AutoShutdown\bin\Debug\Newtonsoft.Json.dll
+F:\C#\workspace\AutoShutdown\AutoShutdown\bin\Debug\Newtonsoft.Json.xml
